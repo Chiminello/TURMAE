@@ -2,9 +2,11 @@ body {
 	background: #CCCCCC
 }
 
-#pizzaria.jpg {
+#banner.jpg {
 	width: 100%;
 }
+
+.principal {
 
 h1 {
 	text-align: center
