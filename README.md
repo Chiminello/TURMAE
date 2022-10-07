@@ -1,6 +1,6 @@
 # TURMAE
 
-estou criando um site sobre as industrias de tijolos chiminello
+estou criando um site sobre a pizzaria chiminello
 
 estou usando o html 
 
